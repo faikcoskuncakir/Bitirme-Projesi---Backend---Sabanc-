@@ -1,0 +1,225 @@
+{
+    "kisiler":[
+        {
+            "flight_number": 72324,
+            "destination_place": "London",
+            "flight_date": "02.09.2023",
+            "flight_company": "Turkish Airlines",
+            "flight_cost": "$345",
+            "aircraft_type": "Airbus A220",
+            "flight_time": "5 Hours",
+            "air_quality": "Good"
+        },
+        {
+            "flight_number": 13456,
+            "destination_place": "Tokyo",
+            "flight_date": "02.09.2023",
+            "flight_company": "Lufthansa",
+            "flight_cost": "$423",
+            "aircraft_type": "Airbus A300",
+            "flight_time": "4 Hours",
+            "air_quality": "Good"
+        },
+        {
+            "flight_number": 14789,
+            "destination_place": "Delhi",
+            "flight_date": "04.09.2023",
+            "flight_company": "Emirates",
+            "flight_cost": "$163",
+            "aircraft_type": "Airbus A321",
+            "flight_time": "3 Hours",
+            "air_quality": "Good"
+        },
+        {
+            "flight_number": 19205,
+            "destination_place": "New York",
+            "flight_date": "03.09.2023",
+            "flight_company": "Turkish Airlines",
+            "flight_cost": "$734",
+            "aircraft_type": "Airbus A380",
+            "flight_time": "6 Hours",
+            "air_quality": "Bad"
+        },
+        {
+            "flight_number": 21512,
+            "destination_place": "Moscow",
+            "flight_date": "06.09.2023",
+            "flight_company": "Turkish Airlines",
+            "flight_cost": "$372",
+            "aircraft_type": "Antonov An-140",
+            "flight_time": "7 Hours",
+            "air_quality": "Good"
+        },
+        {
+            "flight_number": 22563,
+            "destination_place": "Buenos Aires",
+            "flight_date": "06.09.2023",
+            "flight_company": "Emirates",
+            "flight_cost": "$346",
+            "aircraft_type": "Antonov An-148",
+            "flight_time": "8 Hours",
+            "air_quality": "Good"
+        },
+        {
+            "flight_number": 23634,
+            "destination_place": "Los Angeles",
+            "flight_date": "02.09.2023",
+            "flight_company": "Turkish Airlines",
+            "flight_cost": "$773",
+            "aircraft_type": "Antonov An-158",
+            "flight_time": "5 Hours",
+            "air_quality": "Bad"
+        },
+        {
+            "flight_number": 24164,
+            "destination_place": "Tahran",
+            "flight_date": "02.09.2023",
+            "flight_company": "Lufthansa",
+            "flight_cost": "$826",
+            "aircraft_type": "Antonov An-225",
+            "flight_time": "3 Hours",
+            "air_quality": "Bad"
+        },
+        {
+            "flight_number": 28623,
+            "destination_place": "Paris",
+            "flight_date": "02.09.2023",
+            "flight_company": "Lufthansa",
+            "flight_cost": "$457",
+            "aircraft_type": "Beoing 717",
+            "flight_time": "4 Hours",
+            "air_quality": "Good"
+        },
+        {
+            "flight_number": 29234,
+            "destination_place": "Taipei",
+            "flight_date": "07.09.2023",
+            "flight_company": "Emirates",
+            "flight_cost": "$429",
+            "aircraft_type": "Beoing 757",
+            "flight_time": "6 Hours",
+            "air_quality": "Good"
+        },
+        {
+            "flight_number": 35262,
+            "destination_place": "Hamburg",
+            "flight_date": "04.09.2023",
+            "flight_company": "Turkish Airlines",
+            "flight_cost": "$532",
+            "aircraft_type": "Beoing 767",
+            "flight_time": "8 Hours",
+            "air_quality": "Good"
+        },
+        {
+            "flight_number": 36623,
+            "destination_place": "Dubai",
+            "flight_date": "03.09.2023",
+            "flight_company": "Pegasus",
+            "flight_cost": "$422",
+            "aircraft_type": "Beoing 777",
+            "flight_time": "5 Hours",
+            "air_quality": "Bad"
+        },
+        {
+            "flight_number": 38329,
+            "destination_place": "Islamabad",
+            "flight_date": "05.09.2023",
+            "flight_company": "Turkish Airlines",
+            "flight_cost": "$743",
+            "aircraft_type": "Beoing 787",
+            "flight_time": "4 Hours",
+            "air_quality": "Good"
+        },
+        {
+            "flight_number": 39123,
+            "destination_place": "Krakow",
+            "flight_date": "05.09.2023",
+            "flight_company": "Lufthansa",
+            "flight_cost": "$425",
+            "aircraft_type": "Bombardier CRJ-100",
+            "flight_time": "7 Hours",
+            "air_quality": "Good"
+        },
+        {
+            "flight_number": 46232,
+            "destination_place": "Sofia",
+            "flight_date": "02.09.2023",
+            "flight_company": "Emirates",
+            "flight_cost": "$834",
+            "aircraft_type": "Bombardier CRJ-200",
+            "flight_time": "5 Hours",
+            "air_quality": "Good"
+        },
+        {
+            "flight_number": 47123,
+            "destination_place": "Milano",
+            "flight_date": "02.09.2023",
+            "flight_company": "Turkish Airlines",
+            "flight_cost": "$999",
+            "aircraft_type": "Bombardier CRJ-700",
+            "flight_time": "5 Hours",
+            "air_quality": "Bad"
+        },
+        {
+            "flight_number": 48239,
+            "destination_place": "Trabzon",
+            "flight_date": "02.09.2023",
+            "flight_company": "Emirates",
+            "flight_cost": "$236",
+            "aircraft_type": "Bombardier CRJ-900",
+            "flight_time": "1 Hour",
+            "air_quality": "Good"
+        },
+        {
+            "flight_number": 52095,
+            "destination_place": "Toronto",
+            "flight_date": "02.09.2023",
+            "flight_company": "Pegasus",
+            "flight_cost": "$832",
+            "aircraft_type": "Embraer ERJ-135",
+            "flight_time": "9 Hours",
+            "air_quality": "Good"
+        },
+        {
+            "flight_number": 55981,
+            "destination_place": "Houston",
+            "flight_date": "02.09.2023",
+            "flight_company": "Turkish Airlines",
+            "flight_cost": "$974",
+            "aircraft_type": "Embraer ERJ-175",
+            "flight_time": "8 Hours",
+            "air_quality": "Good"
+        },
+        {
+            "flight_number": 56923,
+            "destination_place": "Houston",
+            "flight_date": "02.09.2023",
+            "flight_company": "Lufthansa",
+            "flight_cost": "$123",
+            "aircraft_type": "Embraer ERJ-190",
+            "flight_time": "8 Hours",
+            "air_quality": "Good"
+        },
+        {
+            "flight_number": 57230,
+            "destination_place": "Houston",
+            "flight_date": "03.09.2023",
+            "flight_company": "Pegasus",
+            "flight_cost": "$623",
+            "aircraft_type": "Embraer ERJ-195",
+            "flight_time": "8 Hours",
+            "air_quality": "Good"
+        },
+        {
+            "flight_number": 82348,
+            "destination_place": "Mumbai",
+            "flight_date": "03.09.2023",
+            "flight_company": "Turkish Airlines",
+            "flight_cost": "$743",
+            "aircraft_type": "Airbus A319",
+            "flight_time": "5 Hours",
+            "air_quality": "Bad"
+        }
+    ],
+    "success": 1
+}
