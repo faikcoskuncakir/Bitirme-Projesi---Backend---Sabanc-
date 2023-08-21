@@ -18,7 +18,7 @@ def add_flight(filter_letter):
     matching_flights = [flight for flight in flights if filter_letter.lower() in flight['destination_place'].lower()]
 
     if matching_flights:
-        return jsonify({"matching_flights": matching_flights}), 200
+        return jsonify({"kisiler": matching_flights, "success": 1}), 200
     else:
         return jsonify({"message": f"No flights with destination containing '{filter_letter}' found."}), 404
 
